@@ -17,13 +17,15 @@
   <h3 align="center">The Core</h3>
 
   <p align="center">
-    TheCore.cf is our website, open-sourced and hosted in this repository. (This is a temporary repository which will be replaced by the full website once complete.)
+    TheCore.cf is our website, open-sourced and hosted in this repository. 
+  <br/>
+  (This is a temporary repository which will be replaced by the full website once completed.)
     <br />
     <a href="https://thecore.cf/">View Website</a>
     ·
-    <a href="https://github.com/coressoftware/TheCore.cf-temp/issues">Report Bug</a>
+    <a href="https://github.com/core-hacked/Personal-Site/issues">Report Bug</a>
     ·
-    <a href="https://github.com/coressoftware/TheCore.cf-temp/issues">Request Feature</a>
+    <a href="https://github.com/core-hacked/Personal-Site/issues">Request Feature</a>
   </p>
 </p>
 
@@ -102,7 +104,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/coressoftware/TheCore.cf-temp/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/core-hacked/Personal-Site/issues) for a list of proposed features (and known issues).
 
 
 
