@@ -1,5 +1,5 @@
 DirectoryIndex index.php index.html index.htm index2.html
 
-ErrorDocument 403 https://corehacked.cf/403/
-ErrorDocument 404 https://corehacked.cf/404/
-ErrorDocument 500 https://corehacked.cf/500/
+ErrorDocument 403 https://thecore.cf/403/
+ErrorDocument 404 https://thecore.cf/404/
+ErrorDocument 500 https://thecore.cf/500/
