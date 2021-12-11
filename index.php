@@ -60,14 +60,14 @@ else {
     <?php echo $construction2; ?>
 </div>
 <div style="margin: auto;width: 50%;padding: 10px;text-align: center;   ">
-    <a style="<?php echo $linkstyle; ?>" class="link hover-1" href="https://github.com/core-hacked">GITHUB</a>
+    <a style="<?php echo $linkstyle; ?>" class="link hover-1" href="https://github.com/coressoftware">GITHUB</a>
     <a style="<?php echo $linkstyle; ?>" class="link hover-1" href="https://youtube.com/c/core-hacked">YOUTUBE</a>
     <a style="<?php echo $linkstyle; ?>" class="link hover-1" href="https://twitter.com/core_hacked">TWITTER</a>
     <?php echo $showbr; ?>
     <a class="link hover-1" href="https://steamcommunity.com/id/core_hacked/">STEAM</a>
 </div>
 <div class="footer">
-    <p>corehacked.cf - info@corehacked.cf</p>
+    <p>thecore.cf - info@thecore.cf</p>
 </div>
 </body>
 </html>
