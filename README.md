@@ -10,20 +10,20 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/core-hacked/">
+  <a href="https://github.com/coressoftware/">
     <img src="favicon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">core-hacked</h3>
+  <h3 align="center">The Core</h3>
 
   <p align="center">
-    corehacked.cf is my personal website, open-sourced and hosted in this repository.
+    TheCore.cf is our website, open-sourced and hosted in this repository. (This is a temporary repository which will be replaced by the full website once complete.)
     <br />
-    <a href="https://corehacked.cf/">View Website</a>
+    <a href="https://thecore.cf/">View Website</a>
     ·
-    <a href="https://github.com/core-hacked/Personal-Site/issues">Report Bug</a>
+    <a href="https://github.com/coressoftware/TheCore.cf-temp/issues">Report Bug</a>
     ·
-    <a href="https://github.com/core-hacked/Personal-Site/issues">Request Feature</a>
+    <a href="https://github.com/coressoftware/TheCore.cf-temp/issues">Request Feature</a>
   </p>
 </p>
 
@@ -51,7 +51,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -75,7 +74,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-You can deploy the server however you want, this is just an example of how you can do it.
+This is an example of how to list things you need to use the software and how to install them.
 * Apache (for debian-based systems / using apt)
   ```sh
   sudo apt install apache2
@@ -89,7 +88,7 @@ You can deploy the server however you want, this is just an example of how you c
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/core-hacked/Personal-Site.git
+   git clone https://github.com/coressoftware/thecore.cf-temp.git
    ```
 2. Start an Apache server to run the repo
    ```sh
@@ -103,7 +102,7 @@ You can deploy the server however you want, this is just an example of how you c
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/core-hacked/Personal-Site/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/coressoftware/TheCore.cf-temp/issues) for a list of proposed features (and known issues).
 
 
 
@@ -130,18 +129,18 @@ Distributed under the GNU GPL v3 License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-[info@corehacked.cf](mailto:info@corehacked.cf)
+[info@thecore.cf](mailto:info@thecore.cf)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/core-hacked/Personal-Site.svg?style=for-the-badge
-[contributors-url]: https://github.com/core-hacked/Personal-Site/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/core-hacked/Personal-Site.svg?style=for-the-badge
-[forks-url]: https://github.com/core-hacked/Personal-Site/network/members
-[stars-shield]: https://img.shields.io/github/stars/core-hacked/Personal-Site.svg?style=for-the-badge
-[stars-url]: https://github.com/core-hacked/Personal-Site/stargazers
-[issues-shield]: https://img.shields.io/github/issues/core-hacked/Personal-Site.svg?style=for-the-badge
-[issues-url]: https://github.com/core-hacked/Personal-Site/issues
-[license-shield]: https://img.shields.io/github/license/core-hacked/Personal-Site.svg?style=for-the-badge
-[license-url]: https://github.com/core-hacked/Personal-Site/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/coressoftware/TheCore.cf-temp.svg?style=for-the-badge
+[contributors-url]: https://github.com/coressoftware/TheCore.cf-temp/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/coressoftware/TheCore.cf-temp.svg?style=for-the-badge
+[forks-url]: https://github.com/coressoftware/TheCore.cf-temp/network/members
+[stars-shield]: https://img.shields.io/github/stars/coressoftware/TheCore.cf-temp.svg?style=for-the-badge
+[stars-url]: https://github.com/coressoftware/TheCore.cf-temp/stargazers
+[issues-shield]: https://img.shields.io/github/issues/coressoftware/TheCore.cf-temp.svg?style=for-the-badge
+[issues-url]: https://github.com/coressoftware/TheCore.cf-temp/issues
+[license-shield]: https://img.shields.io/github/license/coressoftware/TheCore.cf-temp.svg?style=for-the-badge
+[license-url]: https://github.com/coressoftware/TheCore.cf-temp/blob/master/LICENSE.txt
