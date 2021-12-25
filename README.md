@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-
+[![View Website][website-shield]][website-url]
 
 
 
@@ -23,9 +23,9 @@
     <br />
     <a href="https://thecore.cf/">View Website</a>
     ·
-    <a href="https://github.com/core-hacked/Personal-Site/issues">Report Bug</a>
+    <a href="https://github.com/coressoftware/thecore.cf-temp/issues">Report Bug</a>
     ·
-    <a href="https://github.com/core-hacked/Personal-Site/issues">Request Feature</a>
+    <a href="https://github.com/coressoftware/thecore.cf-temp/issues">Request Feature</a>
   </p>
 </p>
 
@@ -104,7 +104,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/core-hacked/Personal-Site/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/coressoftware/thecore.cf-temp/issues) for a list of proposed features (and known issues).
 
 
 
@@ -136,13 +136,16 @@ Distributed under the GNU GPL v3 License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/coressoftware/TheCore.cf-temp.svg?style=for-the-badge
-[contributors-url]: https://github.com/coressoftware/TheCore.cf-temp/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/coressoftware/TheCore.cf-temp.svg?style=for-the-badge
-[forks-url]: https://github.com/coressoftware/TheCore.cf-temp/network/members
-[stars-shield]: https://img.shields.io/github/stars/coressoftware/TheCore.cf-temp.svg?style=for-the-badge
-[stars-url]: https://github.com/coressoftware/TheCore.cf-temp/stargazers
-[issues-shield]: https://img.shields.io/github/issues/coressoftware/TheCore.cf-temp.svg?style=for-the-badge
-[issues-url]: https://github.com/coressoftware/TheCore.cf-temp/issues
-[license-shield]: https://img.shields.io/github/license/coressoftware/TheCore.cf-temp.svg?style=for-the-badge
-[license-url]: https://github.com/coressoftware/TheCore.cf-temp/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/coressoftware/thecore.cf-temp.svg?colorA=1e1e28&colorB=E38C8F&style=for-the-badge&logo=starship%20style=for-the-badge
+[contributors-url]: https://github.com/coressoftware/thecore.cf-temp/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/coressoftware/thecore.cf-temp.svg?colorA=1e1e28&colorB=A4B9EF&style=for-the-badge&logo=starship%20style=for-the-badge
+[forks-url]: https://github.com/coressoftware/thecore.cf-temp/network/members
+[stars-shield]: https://img.shields.io/github/stars/coressoftware/thecore.cf-temp.svg?colorA=1e1e28&colorB=EBDDAA&style=for-the-badge&logo=starship%20style=for-the-badge
+[stars-url]: https://github.com/coressoftware/thecore.cf-temp/stargazers
+[issues-shield]: https://img.shields.io/github/issues/coressoftware/thecore.cf-temp.svg?colorA=1e1e28&colorB=B1E3AD&style=for-the-badge&logo=starship%20style=for-the-badge
+[issues-url]: https://github.com/coressoftware/thecore.cf-temp/issues
+[license-shield]: https://img.shields.io/github/license/coressoftware/thecore.cf-temp.svg?colorA=1e1e28&colorB=F9C096&style=for-the-badge&logo=starship%20style=for-the-badge
+[license-url]: https://github.com/coressoftware/thecore.cf-temp/blob/master/LICENSE.txt
+[website-shield]: https://img.shields.io/badge/Website-View%20Deployment-blue?colorA=1e1e28&colorB=A4B9EF&style=for-the-badge&logo=starship%20style=for-the-badge
+[website-url]: https://www.thecore.cf/
+
